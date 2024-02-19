@@ -3,7 +3,7 @@
 import logo from './logo.svg';
 import './App.css';
 import {exibirHorario} from './components/Horario';
-import {fazerLogin} from './components/login';
+import {fazerLogin} from './components/Login';
  
 function App() {
   return (
